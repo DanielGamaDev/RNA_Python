@@ -1,3 +1,4 @@
+#Feito por Daniel Gama - RU 4121047
 from sklearn.linear_model import Perceptron
 import numpy as np
 
